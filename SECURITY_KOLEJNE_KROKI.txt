@@ -1,0 +1,16 @@
+1. Zaczynamy od przyjrzenia sie rejestracji.
+Klasa CreateUserDto oraz UserService
+
+2. Analizujemy klase UserDetailsServiceImpl
+
+3. Analizujemy interfjes TokenGenerator - pomysl jak przerobic go
+   zebys w token mial np tylku id usera a nie username czy role
+
+4. Analizujemy klase WebSecurityConfig
+
+5. Analizujemy w pierwszej kolejnosci filter od logowania czyli
+   JwtAuthenticationFilter
+
+6. Analizujemy w drugiej kolejnosci filter od autoryzacji czyli
+   JwtAuthorizationFilter
+
